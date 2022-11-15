@@ -1,0 +1,53 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/3638979",
+ "artist_names": "Bazzi",
+ "full_title": "Star by\u00a0Bazzi",
+ "header_image_thumbnail_url": "https://images.genius.com/707e68a788df166155f2fb98490a6852.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/707e68a788df166155f2fb98490a6852.1000x1000x1.jpg",
+ "id": 3638979,
+ "instrumental": false,
+ "language": "en",
+ "lyrics_owner_id": 1548008,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1586149568,
+ "path": "/Bazzi-star-lyrics",
+ "pyongs_count": 12,
+ "relationships_index_url": "https://genius.com/Bazzi-star-sample",
+ "release_date_components": {
+  "year": 2018,
+  "month": 4,
+  "day": 12
+ },
+ "release_date_for_display": "April 12, 2018",
+ "release_date_with_abbreviated_month_for_display": "Apr. 12, 2018",
+ "song_art_image_thumbnail_url": "https://images.genius.com/707e68a788df166155f2fb98490a6852.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/707e68a788df166155f2fb98490a6852.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 71517
+ },
+ "title": "Star",
+ "title_with_featured": "Star",
+ "updated_by_human_at": 1629247517,
+ "url": "https://genius.com/Bazzi-star-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1033670",
+  "header_image_url": "https://images.genius.com/3933f5779ccbb57a740383f6dfb87d56.794x1000x1.jpg",
+  "id": 1033670,
+  "image_url": "https://images.genius.com/6c89cc2cd8730533165d684edd36d4b8.872x872x1.png",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Bazzi",
+  "slug": "Bazzi",
+  "url": "https://genius.com/artists/Bazzi",
+  "iq": 3139
+ },
+ "artist": "Bazzi",
+ "lyrics": "Star Lyrics[Verse 1]\nFaded off of that bottle\nLivin' like no tomorrow\nI like you 'cause I'm lifted\nAnd you like me 'cause I'm gifted\nButtoned down in designer\nThat Dolce and that Gabbana\nPainted just like an angel\nI thank the Lord that he made you\n\n[Refrain]\nI see it in your eyes\nPassion you can't deny\nGirl, we can live that life\nI see it all\n[Pre-Chorus]\nThere we are\nSmokin' on rolled cigars\nHollywood boulevard\nI can see it all now\nYou could be\nBigger than your fantasies\nStanding right next to me\n\n[Chorus]\nI see it all now\nYou're a star\nI can see it all now\nYou look...\n\n[Verse 2]\nLike you straight out a movie\nNaked in the jacuzzi\nStuntin' like you Madonna\nThat beautiful persona\nEnergy go crazy\nI might have your babies\nAnd I don't usually say this\nI swear it's not 'cause I'm faded\n\n[Refrain]\nI see it in your eyes\nPassion you can't deny\nGirl, we can live that life\nI see it all\nYou might also like[Pre-Chorus]\nThere we are\nSmokin' on rolled cigars\nHollywood boulevard\nI can see it all now\nYou could be\nBigger than your fantasies\nStanding right next to me\n\n[Chorus]\nI see it all now\nYou're a star\nI can see it all now\nYou look...\n\n[Outro]\nThere we are\nSmokin' on rolled cigars\nHollywood boulevard\nI see it all now\nYou're a star12Embed"
+}
